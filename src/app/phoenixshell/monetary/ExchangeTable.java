@@ -1,4 +1,4 @@
-package app.phoenix.monetary;
+package app.phoenixshell.monetary;
 
 public interface ExchangeTable {
 	
